@@ -9,3 +9,5 @@ Participants:
 - Victoria DOMINGUEZ DEL ANGEL
 - Claudia VASALLO VEGA
 - Roberto ARIOSA HERNANDEZ
+
+![BEACON](https://github.com/D4GEN-Genopole/GARDS-CHSF/blob/main/figures/Beaconizing_hospital.png)
