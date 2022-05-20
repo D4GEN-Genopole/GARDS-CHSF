@@ -9,8 +9,8 @@ Participants:
 - Victoria DOMINGUEZ DEL ANGEL [GENOPOLE](https://www.genopole.fr/)
 - Claudia VASALLO VEGA [CRG](https://www.crg.eu/)
 - Roberto ARIOSA HERNANDEZ [CRG](https://www.crg.eu/)
-- Mohamed ABDUL GAFOOR [CHSF] (https://www.chsf.fr/)
-- Mohanad MAHFOUD [CHSF] (https://www.chsf.fr/)
+- Mohamed ABDUL GAFOOR [CHSF](https://www.chsf.fr/)
+- Mohanad MAHFOUD [CHSF](https://www.chsf.fr/)
 
 ![BEACON](https://github.com/D4GEN-Genopole/GARDS-CHSF/blob/main/figures/Beaconizing_hospital.png)
 
