@@ -13,3 +13,6 @@ Participants:
 - Mohanad MAHFOUD [CHSF] (https://www.chsf.fr/)
 
 ![BEACON](https://github.com/D4GEN-Genopole/GARDS-CHSF/blob/main/figures/Beaconizing_hospital.png)
+
+
+Beacon paper: https://onlinelibrary.wiley.com/doi/10.1002/humu.24369
