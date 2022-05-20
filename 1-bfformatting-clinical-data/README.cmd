@@ -27,3 +27,9 @@ format to be able to search it like that. dbSNP identifiers will also be nice if
 
 - convert Gene name to Refseq Id
 - 
+
+
+Outcomes:
+2 out of the 3 variants were not in Genomad/ClinVar. recommended: submit to ClinVar: https://www.ncbi.nlm.nih.gov/clinvar/docs/submit/
+Also, a conversion from pHGVS to gHGVS will be needed if data supplier does not provide this data.
+
