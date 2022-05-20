@@ -21,8 +21,8 @@ Workflow
 2. format data
 
 2.1 Variant: 
-
-Variant is described as protein HGVS but gene name is in Hugo symbol. We want to format Variant to proper HGVS format and also convert it to standard assembly:chr:pos
+recommendation: https://varnomen.hgvs.org/
+Variant is described as protein HGVS (https://varnomen.hgvs.org/) but gene name is in Hugo symbol. We want to format Variant to proper HGVS format and also convert it to standard assembly:chr:pos
 format to be able to search it like that. dbSNP identifiers will also be nice if available.
 
 - convert Gene name to Refseq Id
