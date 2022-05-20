@@ -8,15 +8,21 @@ Workflow
 
 
   Variables
-  sex
-  age at test
-  date at test
-  variant
+example_data  beacon_variable
+Monsieur  Individual.sex
+gène TTN 	Genomic Variations.molecularAttributes.geneIds
+c.91222_91231del (p.Ser30408Valfs*8)	Genomic Variations.identifiers.proteinHGVSIds
+l’état hétérozygote	Genomic Variations.variantLevelData.zigosity
+classe 4	Genomic Variations.caseLevelData.clinicalInterpretations
+syndrome d’Andersen Tawil 	Individual.diseases
   
-  
-- task needed:
+- actions needed:
 
 1. extract data
+The data was in non-structured data as free text PDF report. For the proof of concept we did the extraction and translation to bff manually.
+Recommendation: It would be ideal to request that the variables from the genetic test are provided in structured way as follows:
+gene: Hugo symbol, e.g 
+gHGVS
 
 2. format data
 
