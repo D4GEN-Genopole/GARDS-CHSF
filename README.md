@@ -16,3 +16,5 @@ Participants:
 
 
 Beacon paper: https://onlinelibrary.wiley.com/doi/10.1002/humu.24369
+
+Presentation: https://docs.google.com/presentation/d/1s5y5pDv6SbLIrGNa8kWarR6HEmRoZ4Nx/edit#slide=id.p1
